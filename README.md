@@ -1,3 +1,4 @@
 <h1>WeatherAPP</h1>
-
+<h2>https://localabduweli.github.io/WeatherApp/</h2>
 <P>The Weather App is a web application designed to provide users with real-time weather information for any city they input. Users can enter the name of a city in the provided input field and submit the form to retrieve weather data. The app fetches weather data from the OpenWeatherMap API, including temperature, humidity, and weather description. It then displays this information in a visually appealing card format, showing the city name, temperature, humidity, and weather description. Additionally, the app dynamically updates the weather emoji based on the weather condition, providing users with an intuitive visual representation of the current weather. With its simple and user-friendly interface, the Weather App offers a convenient way for users to stay informed about the weather conditions in any location.</P>
+
